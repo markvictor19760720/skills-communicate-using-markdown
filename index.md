@@ -17,3 +17,7 @@ var myVar = "Hello, world!";
 
 
 # Testing of Github
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
